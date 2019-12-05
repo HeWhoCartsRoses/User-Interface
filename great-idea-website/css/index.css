@@ -63,4 +63,52 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
-/* Your code starts here! */
+.center div{
+	display: inline-block;
+  }
+  .IOD{
+
+	font-size:72px;
+	text-align:center;
+	margin: 0px 0px 0px 400px;
+  }
+  .GS{
+	padding: 0px 0px 0px 115px;
+	margin: 0px 0px 0px 400px;
+  }
+  .features{
+	  margin: 0px 0px 0px 200px;
+  }
+  .features div{
+	display:inline-block;
+	width:400px;
+  }
+  
+  .second div{
+	display:inline-block;
+	width:400px;
+  }
+  div .T{
+	width:240px;
+	margin: 0px 0px 0px 200px;
+  }
+  div .P{
+	width:333px;
+	margin: 0px 0px 0px 140px;
+  }
+  .info{
+	margin: 0 auto;
+  }
+  .S div{
+	display:block;
+  }
+  section .img1{
+	  
+	margin: 0px 0px 0px 100px;
+  }
+  section .top{
+	  display:inline-block;
+  }
+  .img2{
+	  margin:0px 0px 0px 300px;
+  }
